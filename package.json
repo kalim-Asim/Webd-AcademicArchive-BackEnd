@@ -1,0 +1,21 @@
+{
+  "name": "webd-task-2024",
+  "version": "1.0.0",
+  "description": "Based on your preference, you'll need to complete the tasks outlined in either the `frontend.md` or `backend.md` file. Once you've completed your tasks, make sure to submit your repository link in the `submissions.json` file using the sample format provided. Please ensure that your work is original—any form of plagiarism will not be tolerated.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Asim Kalim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
